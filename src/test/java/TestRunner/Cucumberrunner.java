@@ -6,8 +6,11 @@ import org.testng.annotations.Test;
 
 public class Cucumberrunner {
 
-    @CucumberOptions(tags ="@smoke", features = {"src/test/resources/Features/login.feature"},
-            glue = {"WebStepsDef"},
+    @CucumberOptions(
+            features = {
+            "src/test/resources/Features"},
+            glue = {"WebStepDefs"},
+            tags ="@test1 or @test2 or @test3",
             monochrome = true,
             dryRun = false,
             plugin = {
