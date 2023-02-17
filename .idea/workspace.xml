@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f8d6e2b-bdd9-4d2e-92f9-88a4277e006d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/deletecustomer.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Core/BrowserClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Core/BrowserClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/AddCustomer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/AddCustomer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/Cucumberrunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner/Cucumberrunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WebStepDefs/AddStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebStepDefs/AddStepdefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WebStepDefs/LoginStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebStepDefs/LoginStepdefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/addcustomer.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/addcustomer.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/openaccount.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

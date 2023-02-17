@@ -86,12 +86,8 @@ public class BrowserClass {
 
     public void nameCus() {
 
-       // driver.findElement(By.xpath("/html/body/div[1]/div/div[2]/div/div[1]/button[2]")).click();
-////select[@name="userSelect"]/option[@value="5"]
         String option="rashed barat";
-      //  Select select = new Select(driver.findElement(By.xpath("//select[@id='groupSelect']/option[1]")));
-       // Select drpCountry = new Select(driver.findElement(By.name("//*[@name='userSelect']/option[2]")));
-        //drpCountry.selectByVisibleText("rashed barat");
+
         driver.findElement(By.xpath("//select")).click();
 
         WebElement dropdown = driver.findElement(By.xpath("//select/option[contains(text(), '"+option+"')]"));
@@ -104,9 +100,7 @@ public class BrowserClass {
 
 
         String option="Dollar";
-        //  Select select = new Select(driver.findElement(By.xpath("//select[@id='groupSelect']/option[1]")));
-        // Select drpCountry = new Select(driver.findElement(By.name("//*[@name='userSelect']/option[2]")));
-        //drpCountry.selectByVisibleText("rashed barat");
+     
         driver.findElement(By.xpath("//select")).click();
 
         WebElement dropdown = driver.findElement(By.xpath("//select/option[contains(text(), '"+option+"')]"));

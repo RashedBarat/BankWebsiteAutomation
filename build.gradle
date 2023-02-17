@@ -65,5 +65,4 @@ task automationTest(type: Test) {
             suites "src/test/AddCustomer.xml"
         }
     }
-
 }
